@@ -1,6 +1,6 @@
 # TASK 1
 
-Your task is to complete the helm deployment so that included the tests would work.
+Your task is to complete the helm deployment so that included tests would work.
 
 There should exist a deployment and a service for each app defined in the `values.yaml` file.
 
