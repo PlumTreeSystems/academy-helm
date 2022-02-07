@@ -1,0 +1,16 @@
+image: plumtreesystems/academy-helm
+
+apps:
+  - name: a
+  - name: b
+  - name: c
+
+app_env:
+  ACADEMY_VALUE_1: "it"
+  ACADEMY_VALUE_2: "puts"
+  ACADEMY_VALUE_3: "the"
+  ACADEMY_VALUE_4: "lotion"
+  ACADEMY_VALUE_5: "on"
+  ACADEMY_VALUE_6: "its"
+  ACADEMY_VALUE_7: "skin"
+
